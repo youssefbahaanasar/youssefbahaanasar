@@ -7,7 +7,6 @@
 <div align="center">
   <img height="157" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif"  />
 </div>
-###
 
 <br clear="both">
 
