@@ -7,15 +7,6 @@
 <div align="center">
   <img height="157" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbahaanasar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <br clear="both">
